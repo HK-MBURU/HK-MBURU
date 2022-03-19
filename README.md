@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HK-MBURU
+- 👋 Hi, I’m HK MBURU
 - 👀 I’m interested in web design both front end and back end, coding c,python and java.
 - 🌱 I’m currently learning  java.
 - 💞️ I’m looking to collaborate on any web design and java projects.
