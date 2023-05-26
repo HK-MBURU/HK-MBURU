@@ -1,5 +1,6 @@
 - 👋 Hi, I’m HK MBURU
 - 👀 I’m a web developer working with HTML CSS JavaScript(React, Node Js) and PHP, I am also familiar with C, python and java programming languages.
+- I am also an android developer where I make android applications using java 
 - 🌱 I’m currently learning  Node js and React.
 - 💞️ I’m looking to collaborate on any web design and java projects.
 - 📫 How to reach me haronkiarii@gmail.com ,kiarii.mburu20@students.dkut.ac.ke
