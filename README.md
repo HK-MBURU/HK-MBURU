@@ -30,7 +30,7 @@
 <a href="https://twitter.com/hkmburu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hkmburu1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hkmburu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hkmburu" height="30" width="40" /></a>
 <a href="https://fb.com/hk mburu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hk mburu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hkcode650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hk mburu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCCpNpgocPNyGb5XSQj06AcQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hk mburu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
