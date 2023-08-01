@@ -1,7 +1,5 @@
-- 👋 Hi, I’m HK MBURU
 <h1 align="center">Hi 👋, I'm Haron Mburu Kiarii</h1>
 <h3 align="center">A passionate Full Stack web developer from Kenya</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hk-mburu&label=Profile%20views&color=0e75b6&style=flat" alt="hk-mburu" /> </p>
 
@@ -15,7 +13,6 @@
 
 - 👯 I’m looking to collaborate on **any web development project**
 
-- 🤝 I’m looking for help with **android development with Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HK-MBURU](https://github.com/HK-MBURU)
 
