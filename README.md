@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hkmburu1" target="blank"><img src="https://img.shields.io/twitter/follow/hkmburu1?logo=twitter&style=for-the-badge" alt="hkmburu1" /></a> </p>
 
-- 🔭 I’m currently working on [a Social Media Application](https://github.com/HK-MBURU/social-Media-Application.git)
+- 🔭 I’m currently working on [aautomating E-commerce sites with Machine learning])
 
 - 🌱 I’m currently learning **React Native**
 
