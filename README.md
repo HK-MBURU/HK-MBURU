@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haron Mburu Kiarii</h1>
-<h3 align="center">A passionate Full Stack web developer from Kenya</h3>
+<h3 align="center">Full Stack web developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hk-mburu&label=Profile%20views&color=0e75b6&style=flat" alt="hk-mburu" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/hkmburu1" target="blank"><img src="https://img.shields.io/twitter/follow/hkmburu1?logo=twitter&style=for-the-badge" alt="hkmburu1" /></a> </p>
 
-- 🔭 I’m currently working on automating E-commerce sites with Machine learning
+- 🔭 I’m currently working on web development projects
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **any web development project**
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@kiarii.mburu20](https://medium.com/@kiarii.mburu20)
 
-- 💬 Ask me about **react js,Node js,Express js, msSQL**
+- 💬 Ask me about **react js,Node js,Express js, msSQL, Laravel**
 
 - 📫 How to reach me **haronkiarii@gmail.com**
 
