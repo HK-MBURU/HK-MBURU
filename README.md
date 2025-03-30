@@ -9,19 +9,13 @@
 
 
 
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/HK-MBURU](https://github.com/HK-MBURU)
-
-- 📝 I regularly write articles on [https://medium.com/@kiarii.mburu20](https://medium.com/@kiarii.mburu20)
-
 - 💬 Ask me about **react js,Node js,Express js, msSQL, Laravel**
 
 - 📫 How to reach me **haronkiarii@gmail.com**
 
 - 📄 Know about my experiences [https://hk-mburu.github.io/hkPortifolio/](https://hk-mburu.github.io/hkPortifolio/)
 
-- ⚡ Fun fact **It's not urgent**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
