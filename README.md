@@ -9,7 +9,7 @@
 
 
 
-- 👯 I’m looking to collaborate on **any web development project**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/HK-MBURU](https://github.com/HK-MBURU)
 
