@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **haronkiarii@gmail.com**
 
-- 📄 Know about my experiences [https://hk-mburu.github.io/hkPortifolio/](https://hk-mburu.github.io/hkPortifolio/)
+- 📄 Work with my team [[https://hk-mburu.github.io/hkPortifolio/](https://hk-mburu.github.io/hkPortifolio/](https://hkmburuworks.farmbid.africa/))
 
 
 
