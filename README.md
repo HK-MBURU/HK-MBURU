@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hkmburu1" target="blank"><img src="https://img.shields.io/twitter/follow/hkmburu1?logo=twitter&style=for-the-badge" alt="hkmburu1" /></a> </p>
 
-- 🔭 I’m currently working on web development projects
 
-- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **any web development project**
 
